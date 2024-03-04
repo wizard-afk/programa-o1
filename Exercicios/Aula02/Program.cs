@@ -34,3 +34,16 @@ string resultado = $"Oi, {nome}! Pare de jaguarice!";
 Console.WriteLine(resultado); 
 
 //esse comentário foi feito na aula 03
+
+//substituindo conteúdo de strings
+string nomeCompleto = "Mauricio Roberto Gonzatto";
+nomeCompleto = nomeCompleto.Replace("Roberto", "Dalua");
+Console.WriteLine(nomeCompleto);
+
+// Comparação de strings
+bool isNomeEqual = (nomeCompleto == "Mauricio Roberto Gonzatto");
+
+bool isNomeEqual2 = string.Equals(nomeCompleto, "Mauricio Roberto Gonzatto");
+
+Console.WriteLine($"Primeiro resultado: {isNomeEqual}");
+Console.WriteLine($"Segundo resultado: {isNomeEqual2}");
