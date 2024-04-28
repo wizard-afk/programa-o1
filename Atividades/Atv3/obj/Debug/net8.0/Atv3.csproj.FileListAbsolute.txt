@@ -1,0 +1,15 @@
+C:\Users\user\programa-o1\Atividades\Atv3\bin\Debug\net8.0\Atv3.exe
+C:\Users\user\programa-o1\Atividades\Atv3\bin\Debug\net8.0\Atv3.deps.json
+C:\Users\user\programa-o1\Atividades\Atv3\bin\Debug\net8.0\Atv3.runtimeconfig.json
+C:\Users\user\programa-o1\Atividades\Atv3\bin\Debug\net8.0\Atv3.dll
+C:\Users\user\programa-o1\Atividades\Atv3\bin\Debug\net8.0\Atv3.pdb
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.AssemblyInfoInputs.cache
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.AssemblyInfo.cs
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.csproj.CoreCompileInputs.cache
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.sourcelink.json
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.dll
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\refint\Atv3.dll
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.pdb
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\Atv3.genruntimeconfig.cache
+C:\Users\user\programa-o1\Atividades\Atv3\obj\Debug\net8.0\ref\Atv3.dll

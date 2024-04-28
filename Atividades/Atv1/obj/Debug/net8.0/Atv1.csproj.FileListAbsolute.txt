@@ -1,0 +1,15 @@
+C:\Users\user\programa-o1\Atividades\Atv1\bin\Debug\net8.0\Atv1.exe
+C:\Users\user\programa-o1\Atividades\Atv1\bin\Debug\net8.0\Atv1.deps.json
+C:\Users\user\programa-o1\Atividades\Atv1\bin\Debug\net8.0\Atv1.runtimeconfig.json
+C:\Users\user\programa-o1\Atividades\Atv1\bin\Debug\net8.0\Atv1.dll
+C:\Users\user\programa-o1\Atividades\Atv1\bin\Debug\net8.0\Atv1.pdb
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.AssemblyInfoInputs.cache
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.AssemblyInfo.cs
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.csproj.CoreCompileInputs.cache
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.sourcelink.json
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.dll
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\refint\Atv1.dll
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.pdb
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\Atv1.genruntimeconfig.cache
+C:\Users\user\programa-o1\Atividades\Atv1\obj\Debug\net8.0\ref\Atv1.dll
