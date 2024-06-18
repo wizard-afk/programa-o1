@@ -51,6 +51,20 @@ namespace _240401_01.Views
                         case 3: 
                             ListCustomers();
                         break;
+
+                        case 4:
+                        {
+                            if(customerController.ExportToDelimited())
+                            {
+                                Console.WriteLine("Arquivo gerado com sucesso!");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Falha ao gerar arquivo.");
+                            }
+                            customerController.ExportToDelimited();
+                        }
+                        break;
                         default: 
                             Console.WriteLine("Opção inválida.");
                             aux = true;
